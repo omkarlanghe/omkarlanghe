@@ -22,6 +22,10 @@
 ### Platforms
 <img align="left" alt="Ubuntu" height="30px" src="https://api.iconify.design/logos:ubuntu.svg" />
 <img align="left" alt="Windows" height="30px" src="https://api.iconify.design/logos:microsoft-windows.svg" />
+<br><br>
 
+### Overall Stats:
+[![Omkar's github stats](https://github-readme-stats.vercel.app/api?username=omkarlanghe&layout=compact&count_private=true&theme=prussian)](https://github.com/omkarlanghe)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omkarlanghe&layout=compact&count_private=true&theme=prussian)](https://github.com/omkarlanghe)
 <!-- - 🌱 I’m currently learning OpenGL & DirectX --!>
 
