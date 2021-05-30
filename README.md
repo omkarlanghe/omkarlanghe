@@ -2,7 +2,7 @@
 
 
 - 🔭 Currently working as a back-end developer with the experience in programming languages like C++, JavaScript (Node.js) and C#. Skilled in problem solving using data structures and algorithms.
-
+-  :book: Currently learning backend skills like Redis, Ngnix, Automations using crontabs.
 ### Languages and Skills
 <img align="left" alt="C" height="30px" src="https://api.iconify.design/logos:c.svg" />
 <img align="left" alt="C++" height="30px" src="https://api.iconify.design/logos:c-plusplus.svg" />
