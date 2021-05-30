@@ -9,17 +9,14 @@
 <img align="left" alt="javascript" height="30px" src="https://api.iconify.design/logos:javascript.svg" />
 <img align="left" alt="csharp2" height="30px" src="https://api.iconify.design/vscode-icons:file-type-csharp2.svg" />
 <img align="left" alt="Node" height="30px" src="https://api.iconify.design/logos:nodejs.svg" />
+<img align="left" alt="MongoDB" height="30px" src="https://api.iconify.design/logos:mongodb.svg" />
 <img align="left" alt="DotNet" height="30px" src="https://api.iconify.design/logos:dotnet.svg" />
 <img align="left" alt="AWS" height="30px" src="https://api.iconify.design/logos:aws.svg" />
 <img align="left" alt="Git" height="30px" src="https://api.iconify.design/logos:github-icon.svg" />
 <img align="left" alt="Git" height="30px" src="https://api.iconify.design/logos:postman.svg" />
 <img align="left" alt="VisualStudio" height="30px" src="https://api.iconify.design/logos:visual-studio.svg" />
 <img align="left" alt="VisualStudio" height="30px" src="https://api.iconify.design/logos:visual-studio-code.svg" />
-<br><br>
-
-### Database
-<img align="left" alt="MongoDB" height="30px" src="https://api.iconify.design/logos:mongodb.svg" />
-<img align="left" alt="MongoDB" height="30px" src="https://api.iconify.design/simple-icons:mysql.svg" />
+<img align="left" alt="SQL" height="30px" src="https://api.iconify.design/simple-icons:mysql.svg" />
 <br><br>
 
 ### Platforms
