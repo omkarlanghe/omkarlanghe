@@ -8,7 +8,10 @@
 <img align="left" alt="C++" height="30px" src="https://api.iconify.design/logos:c-plusplus.svg" />
 <img align="left" alt="javascript" height="30px" src="https://api.iconify.design/logos:javascript.svg" />
 <img align="left" alt="csharp2" height="30px" src="https://api.iconify.design/vscode-icons:file-type-csharp2.svg" />
+<img align="left" alt="JIRA" height="30px" src="https://api.iconify.design/logos/jira.svg" />
+<img align="left" alt="Fastify" height="30px" src="https://api.iconify.design/logos/fastify.svg" />
 <img align="left" alt="Node" height="30px" src="https://api.iconify.design/logos:nodejs.svg" />
+<img align="left" alt="React" height="30px" src="https://api.iconify.design/vscode-icons/file-type-reactjs.svg" />
 <img align="left" alt="MongoDB" height="30px" src="https://api.iconify.design/logos:mongodb.svg" />
 <img align="left" alt="DotNet" height="30px" src="https://api.iconify.design/logos:dotnet.svg" />
 <img align="left" alt="AWS" height="30px" src="https://api.iconify.design/logos:aws.svg" />
@@ -20,6 +23,8 @@
 <br><br>
 
 ### Platforms
+
+<img align="left" alt="MacOS" height="30px" src="https://api.iconify.design/ant-design/apple-filled.svg" />
 <img align="left" alt="Ubuntu" height="30px" src="https://api.iconify.design/logos:ubuntu.svg" />
 <img align="left" alt="Windows" height="30px" src="https://api.iconify.design/logos:microsoft-windows.svg" />
 <br><br>
